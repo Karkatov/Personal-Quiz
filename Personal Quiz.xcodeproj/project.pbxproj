@@ -57,9 +57,9 @@
 			isa = PBXGroup;
 			children = (
 				FA0CC7A62744156000DB1F7F /* Question.swift */,
+				FA0CC7A82744157200DB1F7F /* Answer.swift */,
 				FA0CC7B42744255500DB1F7F /* ResponseType.swift */,
 				FA0CC7B2274424DD00DB1F7F /* AnimalType.swift */,
-				FA0CC7A82744157200DB1F7F /* Answer.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";

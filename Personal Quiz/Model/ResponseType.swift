@@ -7,7 +7,7 @@
 
 
 enum ResponseType {
-    case single
-    case multiple
-    case ranged
+    case single // 1 answer
+    case multiple // 2 answer
+    case ranged // slider
 }
